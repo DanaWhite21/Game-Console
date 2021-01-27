@@ -1,0 +1,13 @@
+C:\Users\maryanin\source\repos\repeatGameConsole\bin\Debug\netcoreapp3.1\repeatGameConsole.exe
+C:\Users\maryanin\source\repos\repeatGameConsole\bin\Debug\netcoreapp3.1\repeatGameConsole.deps.json
+C:\Users\maryanin\source\repos\repeatGameConsole\bin\Debug\netcoreapp3.1\repeatGameConsole.runtimeconfig.json
+C:\Users\maryanin\source\repos\repeatGameConsole\bin\Debug\netcoreapp3.1\repeatGameConsole.runtimeconfig.dev.json
+C:\Users\maryanin\source\repos\repeatGameConsole\bin\Debug\netcoreapp3.1\repeatGameConsole.dll
+C:\Users\maryanin\source\repos\repeatGameConsole\bin\Debug\netcoreapp3.1\repeatGameConsole.pdb
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.csprojAssemblyReference.cache
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.AssemblyInfoInputs.cache
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.AssemblyInfo.cs
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.dll
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.pdb
+C:\Users\maryanin\source\repos\repeatGameConsole\obj\Debug\netcoreapp3.1\repeatGameConsole.genruntimeconfig.cache
